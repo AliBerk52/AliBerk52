@@ -4,8 +4,24 @@
 
 <div align="center">
   <h3> 🚀 Software Engineering Student | Java & Backend Enthusiast </h3>
-  <p>Based in Trabzon, Turkey. Currently focusing on Advanced Java OOP, Database Architectures, and Web Technologies.</p>
+  <p>Based in Trabzon, Turkey. Coding efficient backends and solving complex problems.</p>
+  
+  <a href="mailto:bacaksizaliberk021@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/linkedin-kullanici-adin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
+
+---
+
+### 🧐 About Me
+
+- 🎓 I’m a **2nd year Software Engineering student**.
+- 💻 I have developed a **Chess Engine (Java)** and a **Beauty Center Web App (Flask/MySQL)**.
+- 🌱 I’m currently focusing on **System Architecture** and **Backend Technologies**.
+- ⚡ Fun fact: I love turning mathematical problems into code.
 
 ---
 
