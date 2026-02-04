@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3> 🚀 Software Engineering Student | Java & Backend Enthusiast </h3>
-  <p>Based in Ankara, Turkey. Currently focusing on Advanced Java OOP, Database Architectures, and Web Technologies.</p>
+  <p>Based in Trabzon, Turkey. Currently focusing on Advanced Java OOP, Database Architectures, and Web Technologies.</p>
 </div>
 
 ---
